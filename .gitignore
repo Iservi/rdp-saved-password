@@ -1,0 +1,14 @@
+# Credential output that must never be committed
+creds.json
+*.cred.json
+output.json
+*_dump.json
+
+# Logs / captured runs
+*.log
+*.txt
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
